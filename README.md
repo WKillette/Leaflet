@@ -47,8 +47,8 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
    Hint: The depth of the earth can be found as the third coordinate for each earthquake.
 
-Include popups that provide additional information about the earthquake when its associated marker is clicked.
+   * Include popups that provide additional information about the earthquake when its associated marker is clicked.
 
-Create a legend that will provide context for your map data.
+   * Create a legend that will provide context for your map data.
 
-Your visualization should look something like the preceding map.
+   * Your visualization should look something like the preceding map.
